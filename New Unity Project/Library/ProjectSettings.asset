@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 328476e8bf430fb459a84a7b8375185d
+  productGUID: 5c6d68501db969b46b7254f30c9d5e1f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -635,8 +635,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: fa776c43-c648-4b46-bde4-657255565526
-  projectName: New Unity Project (1)
+  cloudProjectId: f5b3ca31-e15f-4f41-add2-09bfeb26dc8b
+  projectName: New Unity Project (2)
   organizationId: maherj
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
